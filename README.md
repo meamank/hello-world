@@ -1,2 +1,3 @@
 # hello-world
-My first repo in github journey
+Hi techies,
+Aman here, I like Python and Android is better than iOS.Period
